@@ -33,6 +33,10 @@ function App() {
           <Footer />
         </>
       } />
+
+
+
+      
       <Route path="/contact" element={
         <>
           <Header />
