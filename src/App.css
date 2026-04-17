@@ -1,0 +1,10 @@
+/* Global reset and base styles */
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #f5f5f5;
+}
+
+* {
+  box-sizing: border-box;
+}
